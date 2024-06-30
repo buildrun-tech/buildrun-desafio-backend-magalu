@@ -1,12 +1,11 @@
 services:
   mysql:
-    image: mysql
-    ports:
-      - "3306:3306"
-    expose:
-      - "3306"
+    container_name: 'mysql-magalu'
+    image: 'mysql:latest'
     environment:
-      - MYSQL_USERNAME=admin
-      - MYSQL_PASSWORD=123
-      - MYSQL_DATABASE=magaludb
-      - MYSQL_ROOT_PASSWORD=123
+      - 'MYSQL_DATABASE=magaludb'
+      - 'MYSQL_PASSWORD=123'
+      - 'MYSQL_ROOT_PASSWORD=123'
+      - 'MYSQL_USER=admin'
+    ports:
+      - '3306:3306'

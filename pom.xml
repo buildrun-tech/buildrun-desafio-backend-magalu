@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>tech.buildrun</groupId>
-	<artifactId>magalu</artifactId>
+	<artifactId>magalums</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>magalu</name>
+	<name>magalums</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
