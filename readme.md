@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/buildrun-tech/buildrun-desafio-backend-magalu/blob/main/images/logo-magalu.jpg"> 
+    <img width="50%" src="https://github.com/buildrun-tech/buildrun-desafio-backend-magalu/blob/main/images/logo-magalu.png"> 
 </p>
 
 
